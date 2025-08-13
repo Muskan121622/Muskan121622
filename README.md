@@ -13,7 +13,7 @@ I love building full-stack apps and contributing to open-source.
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muskan121622&theme=tokyonight)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muskan12162&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ![Snake animation](https://github.com/Muskan121622/Muskan121622/blob/output/github-contribution-grid-snake.svg)
 
