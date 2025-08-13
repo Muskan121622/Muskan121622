@@ -2,11 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *" # Every day at midnight UTC
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,16 +18,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Muskan121622
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push changes
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generate Snake animation"
           add: "dist/github-contribution-grid-snake.svg"
+
