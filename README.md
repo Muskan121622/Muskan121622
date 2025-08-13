@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+Hi! I'm Muskan 👋  
+I love building full-stack apps and contributing to open-source.
 
-<!--
-**Muskan121622/Muskan121622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muskan121622&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan121622&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🔥 Streak Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muskan121622&theme=radical&hide_border=false)
+
+---
+
