@@ -14,3 +14,5 @@ I love building full-stack apps and contributing to open-source.
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Muskan121622&color=blue)
+---
