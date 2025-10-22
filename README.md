@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-Hi! I'm **Muskan Mahto** 👩‍💻  
+Hi! I'm **Muskan** 👩‍💻  
 I love building full-stack apps and contributing to open-source projects.  
 Currently exploring **AI-powered apps**, **Next.js**, and **Cloud Deployment** ☁️  
 I’m passionate about writing clean, scalable code and learning something new every day!
