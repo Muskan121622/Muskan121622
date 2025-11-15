@@ -91,7 +91,7 @@ I’m passionate about writing clean, scalable code and learning something new e
 
 <p align="center">
  
-  <a href="muskanchauhan1016@gmail.com">
+  <a href="mailto:muskanchauhan1016@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Muskan121622">
