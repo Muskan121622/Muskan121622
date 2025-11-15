@@ -50,10 +50,11 @@ I’m passionate about writing clean, scalable code and learning something new e
 ---
 ### GirlScript Summer of Code 2025
 
-🏅 Top 1% Contributor (Rank 22)   📅 July–October
+🏅 Top 1% Contributor (Rank 22)
+📅 July – October
+(60+ Accepted PRs)
 
-<p align="center"> <table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Compass.png" width="120"/><br/> <b>Compass Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Cog.png" width="120"/><br/> <b>Cog Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Wave.png" width="120"/><br/> <b>Wave Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Mountain.png" width="120"/><br/> <b>Mountain Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Trophy.png" width="120"/><br/> <b>Trophy Badge</b> </td> </tr> </table> </p>
- (60+ Accepted PRs)
+<br> <p align="center"> <table> <tr> <td align="center"> <img src="/mnt/data/Champion-Badge.png" width="120"/><br/> <b>Champion Badge</b> </td> <td align="center"> <img src="/mnt/data/Summit-Seeker-Badge.png" width="120"/><br/> <b>Summit Seeker Badge</b> </td> <td align="center"> <img src="/mnt/data/Trailblazer-Badge.png" width="120"/><br/> <b>Trailblazer Badge</b> </td> <td align="center"> <img src="/mnt/data/Adventurer-Badge.png" width="120"/><br/> <b>Adventurer Badge</b> </td> <td align="center"> <img src="/mnt/data/Explorer-Badge.png" width="120"/><br/> <b>Explorer Badge</b> </td> </tr> </table> </p>
 
 ---
 
