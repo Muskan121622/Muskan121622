@@ -49,12 +49,36 @@ I’m passionate about writing clean, scalable code and learning something new e
 ---
 ---
 ### GirlScript Summer of Code 2025
-
-🏅 Top 1% Contributor (Rank 22)
-📅 July – October
+🏅 Top 1% Contributor (Rank 22)  
+📅 July – October  
 (60+ Accepted PRs)
 
-<br> <p align="center"> <table> <tr> <td align="center"> <img src="/mnt/data/Champion-Badge.png" width="120"/><br/> <b>Champion Badge</b> </td> <td align="center"> <img src="/mnt/data/Summit-Seeker-Badge.png" width="120"/><br/> <b>Summit Seeker Badge</b> </td> <td align="center"> <img src="/mnt/data/Trailblazer-Badge.png" width="120"/><br/> <b>Trailblazer Badge</b> </td> <td align="center"> <img src="/mnt/data/Adventurer-Badge.png" width="120"/><br/> <b>Adventurer Badge</b> </td> <td align="center"> <img src="/mnt/data/Explorer-Badge.png" width="120"/><br/> <b>Explorer Badge</b> </td> </tr> </table> </p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./badges/Champion-Badge.png" width="120"/><br/>
+        <b>Champion Badge</b>
+      </td>
+      <td align="center">
+        <img src="./badges/Summit-Seeker-Badge.png" width="120"/><br/>
+        <b>Summit Seeker Badge</b>
+      </td>
+      <td align="center">
+        <img src="./badges/Trailblazer-Badge.png" width="120"/><br/>
+        <b>Trailblazer Badge</b>
+      </td>
+      <td align="center">
+        <img src="./badges/Adventurer-Badge.png" width="120"/><br/>
+        <b>Adventurer Badge</b>
+      </td>
+      <td align="center">
+        <img src="./badges/Explorer-Badge.png" width="120"/><br/>
+        <b>Explorer Badge</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
