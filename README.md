@@ -52,32 +52,12 @@ I’m passionate about writing clean, scalable code and learning something new e
 🏅 Top 1% Contributor (Rank 22)  
 📅 July – October  
 (60+ Accepted PRs)
-
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./badges/Champion-Badge.png" width="120"/><br/>
-        <b>Champion Badge</b>
-      </td>
-      <td align="center">
-        <img src="./badges/Summit-Seeker-Badge.png" width="120"/><br/>
-        <b>Summit Seeker Badge</b>
-      </td>
-      <td align="center">
-        <img src="./badges/Trailblazer-Badge.png" width="120"/><br/>
-        <b>Trailblazer Badge</b>
-      </td>
-      <td align="center">
-        <img src="./badges/Adventurer-Badge.png" width="120"/><br/>
-        <b>Adventurer Badge</b>
-      </td>
-      <td align="center">
-        <img src="./badges/Explorer-Badge.png" width="120"/><br/>
-        <b>Explorer Badge</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/1.png" height="80" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/2.png" height="80" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/3.png" height="80" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/4.png" height="80" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/5.png" height="80" />
 </p>
 
 ---
