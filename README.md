@@ -55,8 +55,8 @@ GirlScript Summer of Code 2025
 <p align="center"> <table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Compass.png" width="120"/><br/> <b>Compass Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Cog.png" width="120"/><br/> <b>Cog Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Wave.png" width="120"/><br/> <b>Wave Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Mountain.png" width="120"/><br/> <b>Mountain Badge</b> </td> <td align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/resources/main/Badges/Trophy.png" width="120"/><br/> <b>Trophy Badge</b> </td> </tr> </table> </p>
  (60+ Accepted PRs)
 
-<p align="center"> <table> <tr> <td align="center"> <img src="https://hacktoberfest.com/_next/static/media/hacktoberfest-logo.a8c6a673.svg" width="140"/><br/> <b>Hacktoberfest Badge</b> </td> </tr> </table> </p>
 ---
+
 ### 🔥 GitHub Streak
 
 <p align="center">
