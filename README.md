@@ -49,7 +49,7 @@ I’m passionate about writing clean, scalable code and learning something new e
 ---
 ---
 ### GirlScript Summer of Code 2025
-🏅 Top 1% Contributor (Rank 22)  
+🏅 Top 1% Contributor (Rank 23)  
 📅 July – October  
 (60+ Accepted PRs)
 <p align="center">
