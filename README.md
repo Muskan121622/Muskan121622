@@ -53,11 +53,11 @@ I’m passionate about writing clean, scalable code and learning something new e
 📅 July – October  
 (60+ Accepted PRs)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/1.png" height="80" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/2.png" height="80" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/3.png" height="80" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/4.png" height="80" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/5.png" height="80" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/1.png" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/2.png" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/3.png" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/4.png" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/assets/5.png" height="100" />
 </p>
 
 ---
