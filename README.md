@@ -137,7 +137,6 @@ Converts doctor–patient audio into structured SOAP clinical notes using **Open
 <p align="center">
   <a href="mailto:muskanchauhan1016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Muskan121622"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
