@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Muskan+Kumari&fontSize=52&fontAlignY=36&desc=Full-Stack+Dev+%7C+AI%2FML+Engineer+%7C+Open+Source&descAlignY=58&descSize=17&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d1117&height=200&section=header&text=Muskan+Kumari&fontSize=52&fontAlignY=38&desc=Full-Stack+Dev+%7C+AI%2FML+Engineer+%7C+Open+Source&descAlignY=58&descSize=17&fontColor=c9d1d9" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A020F0&background=0D111700&center=true&vCenter=true&width=700&lines=GSoC+2026+%E2%80%94+JuliaLang+Contributor+(10%2B+PRs);GSSoC'25+Rank+%2325+%2F+20%2C000%2B+contributors;AgriSphere+AI+%E2%80%94+used+by+20%2B+real+farmers;600%2B+LeetCode+problems+%7C+Top+100K+Global" alt="Typing SVG" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%26+AI%2FML+Engineer+%7C+NIT+Manipur;GSoC+2026+%E2%80%94+JuliaLang+Contributor+(10%2B+PRs);GSSoC'25+Rank+%2325+%2F+20%2C000%2B+contributors+%7C+60%2B+Merged+PRs;AgriSphere+AI+%E2%80%94+used+by+20%2B+real+farmers+in+production;600%2B+LeetCode+problems+%7C+Top+100K+Global+Rank)](https://git.io/typing-svg)
 
@@ -146,5 +149,5 @@ Converts doctor–patient audio into structured SOAP clinical notes using **Open
   <img src="https://img.shields.io/github/followers/Muskan121622?style=flat-square&logo=github&label=Followers"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d1117&height=120&section=footer" width="100%"/>
 
