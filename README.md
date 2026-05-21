@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer and AI/ML Engineer** at NIT Manipur, building production-grade AI systems and contributing to open source at scale.
+I'm a **Full-Stack Developer and AI/ML Engineer** , building production-grade AI systems and contributing to open source at scale.
 
 - 🌿 **Google Summer of Code 2026** — active contributor to **JuliaLang** with 10+ merged PRs
 - 🏆 **GSSoC'25 Rank #25** out of 20,000+ contributors · 60+ merged PRs · Official Letter of Recommendation
