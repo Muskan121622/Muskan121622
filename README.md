@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Muskan Kumari**, a Software Developer and AI/ML Engineer pursuing B.Tech at **National Institute of Technology, Manipur (2023–2027)**.
+I'm **Muskan Kumari**, a Software Developer and AI/ML Engineer pursuing B.Tech .
 
 I build intelligent applications, scalable backend systems, AI-powered automation tools and real-world software products.
 
