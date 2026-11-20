@@ -83,20 +83,6 @@ I actively contribute to open-source ecosystems by exploring unfamiliar codebase
 
 Received an official Letter of Recommendation for open-source contributions.
 
-#### 📊 Open Source Contribution Metrics
-
-| Contribution Metric | Achievement |
-|---|---|
-| Overall Rank | #25 |
-| Participants | 20,000+ |
-| Merged Pull Requests | 60+ |
-| Pull Requests Opened | [ADD ACTUAL COUNT] |
-| Issues Raised | [ADD ACTUAL COUNT] |
-| Issues Resolved | [ADD ACTUAL COUNT] |
-| Repositories Contributed To | [ADD ACTUAL COUNT] |
-| Contribution Points | [ADD OFFICIAL SCORE] |
-| Official Grade | [ADD VERIFIED GRADE] |
-| Recognition | Official Letter of Recommendation |
 
 #### 🔧 What I Did in Open Source
 
