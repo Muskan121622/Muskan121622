@@ -33,6 +33,29 @@ I believe in learning by building, contributing through meaningful engineering w
 
 ---
 
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muskan121622&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan121622&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<img width="90%" src="https://streak-stats.demolab.com/?user=Muskan121622&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+### 🏅 GitHub Profile Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muskan121622&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
+
+</div>
+
+---
+
 ## ⚡ Engineering Highlights
 
 <div align="center">
@@ -126,27 +149,6 @@ Merge into Upstream
 
 My goal is not simply to increase the number of PRs, but to contribute meaningful, maintainable and tested code.
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muskan121622&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan121622&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-<img width="90%" src="https://streak-stats.demolab.com/?user=Muskan121622&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-### 🏅 GitHub Profile Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muskan121622&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
-
-</div>
 
 ---
 
